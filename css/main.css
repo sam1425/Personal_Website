@@ -1,0 +1,36 @@
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+div {
+  width: 800px;
+  margin:auto;
+}
+
+body {
+    background-color: #282828;
+    background-image: url('img/');
+    background-repeat: repeat;
+    background-size: 10%;
+    color: whitesmoke;
+}
