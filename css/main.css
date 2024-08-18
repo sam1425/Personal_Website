@@ -36,3 +36,14 @@ body {
     color: whitesmoke;
 }
 /* until here */
+.me {
+    width: 1400px; 
+}
+.poem {
+    font-family: cursive;
+    font-size: small;
+    width: 900;
+}
+.footer {
+    text-align: center;
+}
