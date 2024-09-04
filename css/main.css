@@ -65,7 +65,7 @@ body, html {
     z-index: 2;
     padding: 20px;
     color: #fff;
-    text-align: center;
+    /* text-align: center; */
 }
 
 h1 {
@@ -96,7 +96,7 @@ a:link {
 }
 
 a:visited {
-    color: #689d6a;
+    color:  #b16286;
     background-color: transparent;
     text-decoration: none;
 }
@@ -155,11 +155,11 @@ div {
     }
   
   /*Make the first letter slightly bigger and a different color :) */
-  h1::first-letter, h2::first-letter, h3::first-letter {
-    color: #aae6ff;
-    font-size: 1.25em;
-    font-weight:bold;
-    }
+  /* h1::first-letter, h2::first-letter, h3::first-letter { */
+    /* color:    #98971a; */
+    /* font-size: 1.25em; */
+    /* font-weight:bold; */
+    /* } */
     
   /*Make lowercase headers bigger, since this font's a little harder to read.*/
   h1 {
@@ -196,7 +196,7 @@ div {
     
   blockquote {
     font-style:italic;
-    border-left: 1px solid #aae6ff;
+    border-left: 3px solid #aae6ff;
     background: rgb(170,230,255,0.15);
     padding: 5px 20px;
     }
